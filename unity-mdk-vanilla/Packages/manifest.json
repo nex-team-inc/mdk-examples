@@ -1,4 +1,27 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com"
+      ]
+    },
+    {
+      "name": "Nex Packages",
+      "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app",
+      "scopes": [
+        "team.nex"
+      ]
+    },
+    {
+      "name": "Unity Packages",
+      "url": "https://packages.unity.com",
+      "scopes": [
+        "com.unity"
+      ]
+    }
+  ],
   "dependencies": {
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.feature.development": "1.0.1",
@@ -40,6 +63,7 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "team.nex.jazz": "0.3.3"
   }
 }
