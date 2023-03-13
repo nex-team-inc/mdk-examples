@@ -21,12 +21,6 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
-    "com.unity.2d.sprite": {
-      "version": "1.0.0",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {}
-    },
     "com.unity.barracuda": {
       "version": "3.0.0",
       "depth": 2,

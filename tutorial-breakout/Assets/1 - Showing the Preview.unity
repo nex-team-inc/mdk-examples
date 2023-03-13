@@ -136,7 +136,7 @@ PrefabInstance:
       objectReference: {fileID: 1773311647}
     - target: {fileID: 1590780875427531834, guid: 84ce1512b98ea475a9b343c822c92289, type: 3}
       propertyPath: outputImageFitMode
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4100131787668767315, guid: 84ce1512b98ea475a9b343c822c92289, type: 3}
       propertyPath: m_RootOrder
