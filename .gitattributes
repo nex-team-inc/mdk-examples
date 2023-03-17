@@ -15,3 +15,4 @@
 *.dylib filter=lfs diff=lfs merge=lfs -text
 *.was filter=lfs diff=lfs merge=lfs -text
 *.tflite filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
