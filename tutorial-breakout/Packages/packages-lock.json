@@ -204,7 +204,7 @@
       "url": "https://packages.unity.com"
     },
     "team.nex.mdk": {
-      "version": "0.5.0-alpha.0",
+      "version": "0.5.0-alpha.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -213,63 +213,23 @@
         "team.nex.tflite.common": "2.9.1-nex.6",
         "com.unity.textmeshpro": "3.0.6",
         "com.unity.barracuda": "3.0.0",
-        "team.nex.opencv-for-unity": "2.4.8-nex.3",
-        "team.nex.opencv-for-unity.plugins.android": "2.4.8-nex.3",
-        "team.nex.opencv-for-unity.plugins.ios": "2.4.8-nex.3",
-        "team.nex.opencv-for-unity.plugins.macos": "2.4.8-nex.3",
-        "team.nex.opencv-for-unity.plugins.windows": "2.4.8-nex.3",
-        "team.nex.nex-camera": "0.1.6",
+        "team.nex.nex-camera": "0.1.9",
         "com.textus-games.serialized-reference-ui": "1.0.0",
         "com.dbrizov.naughtyattributes": "2.1.4"
       },
       "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app"
     },
     "team.nex.mdk.body": {
-      "version": "0.5.0-alpha.0",
+      "version": "0.5.0-alpha.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "team.nex.mdk": "0.5.0-alpha.0"
+        "team.nex.mdk": "0.5.0-alpha.6"
       },
       "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app"
     },
     "team.nex.nex-camera": {
-      "version": "0.1.6",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app"
-    },
-    "team.nex.opencv-for-unity": {
-      "version": "2.4.8-nex.3",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app"
-    },
-    "team.nex.opencv-for-unity.plugins.android": {
-      "version": "2.4.8-nex.3",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app"
-    },
-    "team.nex.opencv-for-unity.plugins.ios": {
-      "version": "2.4.8-nex.3",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app"
-    },
-    "team.nex.opencv-for-unity.plugins.macos": {
-      "version": "2.4.8-nex.3",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://nex-verdaccio-uejdbriueq-uc.a.run.app"
-    },
-    "team.nex.opencv-for-unity.plugins.windows": {
-      "version": "2.4.8-nex.3",
+      "version": "0.1.9",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
